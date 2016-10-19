@@ -1,0 +1,6 @@
+---
+box: ubuntu/trusty64
+provisioning:
+  ansible:
+    options:
+      sudo: yes
